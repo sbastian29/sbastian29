@@ -1,16 +1,16 @@
-<!-- ════════════════ HERO ════════════════ -->
+<!-- ════════════════════════ HERO ════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Sebasti%C3%A1n%20Casta%C3%B1o&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20Datos%20%26%20IA&descAlignY=68&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Sebasti%C3%A1n%20Casta%C3%B1o&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Data%20Engineer%20%E2%80%94%20Datos%20%26%20IA&descAlignY=66&descSize=17" width="100%"/>
 
 <!-- ── SWITCH DE IDIOMA ── -->
 <a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_Español-2c5364?style=for-the-badge&labelColor=0f2027" alt="Español"/></a>
 &nbsp;
-<a href="README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_English-eaeaea?style=for-the-badge&logoColor=555&labelColor=f5f5f5&color=e0e0e0" alt="English"/></a>
+<a href="README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_English-eaeaea?style=for-the-badge&labelColor=f5f5f5&color=e0e0e0" alt="English"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=900&color=4A9FE0&center=true&vCenter=true&width=560&lines=Pipelines+de+datos+de+principio+a+fin;Kafka+%E2%86%92+Spark+%E2%86%92+PostgreSQL;Machine+Learning+aplicado+a+negocio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=900&color=4A9FE0&center=true&vCenter=true&width=580&lines=Pipelines+de+datos+de+principio+a+fin;Kafka+%E2%86%92+Spark+%E2%86%92+PostgreSQL;Machine+Learning+aplicado+a+negocio;Aprendizaje+autodidacta%2C+sin+atajos" alt="Typing SVG" />
 
 <br/>
 
@@ -22,10 +22,10 @@
 
 <br/>
 
-<!-- ════════════════ SOBRE MÍ ════════════════ -->
+<!-- ════════════════════════ SOBRE MÍ ════════════════════════ -->
 ### &nbsp;🧭&nbsp; Sobre mí
 
-Soy **Ingeniero de Datos** cursando un Máster en Data Engineering. Me dedico a construir **pipelines de datos completos** y a aplicar **Machine Learning** a problemas reales de negocio.
+Soy **Ingeniero de Datos** cursando un Máster en Data Engineering. Construyo **pipelines de datos completos** y aplico **Machine Learning** a problemas reales de negocio.
 
 ```yaml
 rol:        Data Engineer · Datos & IA
@@ -38,7 +38,7 @@ estado:     🔎 Abierto a oportunidades
 
 <br/>
 
-<!-- ════════════════ STACK ════════════════ -->
+<!-- ════════════════════════ STACK ════════════════════════ -->
 ### &nbsp;🧱&nbsp; Stack técnico
 
 <table>
@@ -82,7 +82,7 @@ estado:     🔎 Abierto a oportunidades
 
 <br/>
 
-<!-- ════════════════ PROYECTOS ════════════════ -->
+<!-- ════════════════════════ PROYECTOS ════════════════════════ -->
 ### &nbsp;📂&nbsp; Proyectos por área
 
 <details>
@@ -128,8 +128,8 @@ estado:     🔎 Abierto a oportunidades
 
 <br/>
 
-<!-- ════════════════ STATS ════════════════ -->
-### &nbsp;📊&nbsp; GitHub
+<!-- ════════════════════════ STATS ════════════════════════ -->
+### &nbsp;📊&nbsp; Actividad en GitHub
 
 <div align="center">
 
@@ -140,6 +140,28 @@ estado:     🔎 Abierto a oportunidades
 
 <br/>
 
+<!-- 🐍 SNAKE (requiere el workflow .github/workflows/snake.yml) -->
 <div align="center">
-<sub><i>Aprendizaje autodidacta, estructurado y sin atajos.</i></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbastian29/sbastian29/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbastian29/sbastian29/output/snake.svg" />
+  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/sbastian29/sbastian29/output/snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- 🏆 TROFEOS -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sbastian29&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trofeos"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,50:203a43,100:0f2027&height=60&section=footer" width="100%"/>
 </div>
