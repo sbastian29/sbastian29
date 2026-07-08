@@ -25,15 +25,14 @@
 <!-- ════════════════════════ ABOUT ════════════════════════ -->
 ### &nbsp;🧭&nbsp; About me
 
-I'm a **Data Engineer** pursuing a Master's in Data Engineering. I build **end-to-end data pipelines** and apply **Machine Learning** to real business problems.
+I'm a **Data Engineer**. I build **end-to-end data pipelines** and apply **Machine Learning** to real business problems.
 
 ```yaml
 role:       Data Engineer · Data & AI
-now:        Airflow · dbt · OpenMetadata
-thesis:     Churn analysis (Kafka → Spark → PostgreSQL)
-learning:   Azure AI-900 (in progress)
-location:   Gijón, Spain · on-site · hybrid · remote
-status:     🔎 Open to opportunities
+now:        Data infrastructure · Airflow · dbt · OpenMetadata
+education:  MSc in Data Engineering · Azure AI-900 (certified)
+extra:      Continuous self-taught learning
+location:   Madrid, Spain
 ```
 
 <br/>
@@ -63,7 +62,7 @@ status:     🔎 Open to opportunities
 ![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=flat-square&logo=knime&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -128,19 +127,9 @@ status:     🔎 Open to opportunities
 
 <br/>
 
-<!-- ════════════════════════ STATS ════════════════════════ -->
-### &nbsp;📊&nbsp; GitHub activity
+<!-- ════════════════════════ SNAKE ════════════════════════ -->
+### &nbsp;🐍&nbsp; GitHub activity
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sbastian29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4A9FE0&icon_color=4A9FE0&count_private=true" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbastian29&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4A9FE0" alt="top langs"/>
-
-</div>
-
-<br/>
-
-<!-- 🐍 SNAKE (needs the .github/workflows/snake.yml workflow) -->
 <div align="center">
 
 <picture>
@@ -148,15 +137,6 @@ status:     🔎 Open to opportunities
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbastian29/sbastian29/output/snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/sbastian29/sbastian29/output/snake.svg" width="100%"/>
 </picture>
-
-</div>
-
-<br/>
-
-<!-- 🏆 TROPHIES -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sbastian29&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies"/>
 
 </div>
 
