@@ -1,16 +1,16 @@
-<!-- ════════════════ HERO ════════════════ -->
+<!-- ════════════════════════ HERO ════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Sebasti%C3%A1n%20Casta%C3%B1o&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20Data%20%26%20AI&descAlignY=68&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Sebasti%C3%A1n%20Casta%C3%B1o&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Data%20Engineer%20%E2%80%94%20Data%20%26%20AI&descAlignY=66&descSize=17" width="100%"/>
 
 <!-- ── LANGUAGE SWITCH ── -->
-<a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_Español-eaeaea?style=for-the-badge&logoColor=555&labelColor=f5f5f5&color=e0e0e0" alt="Español"/></a>
+<a href="README.md"><img src="https://img.shields.io/badge/🇪🇸_Español-eaeaea?style=for-the-badge&labelColor=f5f5f5&color=e0e0e0" alt="Español"/></a>
 &nbsp;
 <a href="README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_English-2c5364?style=for-the-badge&labelColor=0f2027" alt="English"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=900&color=4A9FE0&center=true&vCenter=true&width=560&lines=End-to-end+data+pipelines;Kafka+%E2%86%92+Spark+%E2%86%92+PostgreSQL;Machine+Learning+applied+to+business" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=900&color=4A9FE0&center=true&vCenter=true&width=580&lines=End-to-end+data+pipelines;Kafka+%E2%86%92+Spark+%E2%86%92+PostgreSQL;Machine+Learning+applied+to+business;Self-taught+learning%2C+no+shortcuts" alt="Typing SVG" />
 
 <br/>
 
@@ -22,10 +22,10 @@
 
 <br/>
 
-<!-- ════════════════ ABOUT ════════════════ -->
+<!-- ════════════════════════ ABOUT ════════════════════════ -->
 ### &nbsp;🧭&nbsp; About me
 
-I'm a **Data Engineer** pursuing a Master's in Data Engineering. I focus on building **end-to-end data pipelines** and applying **Machine Learning** to real business problems.
+I'm a **Data Engineer** pursuing a Master's in Data Engineering. I build **end-to-end data pipelines** and apply **Machine Learning** to real business problems.
 
 ```yaml
 role:       Data Engineer · Data & AI
@@ -38,7 +38,7 @@ status:     🔎 Open to opportunities
 
 <br/>
 
-<!-- ════════════════ STACK ════════════════ -->
+<!-- ════════════════════════ STACK ════════════════════════ -->
 ### &nbsp;🧱&nbsp; Tech stack
 
 <table>
@@ -82,7 +82,7 @@ status:     🔎 Open to opportunities
 
 <br/>
 
-<!-- ════════════════ PROJECTS ════════════════ -->
+<!-- ════════════════════════ PROJECTS ════════════════════════ -->
 ### &nbsp;📂&nbsp; Projects by area
 
 <details>
@@ -128,8 +128,8 @@ status:     🔎 Open to opportunities
 
 <br/>
 
-<!-- ════════════════ STATS ════════════════ -->
-### &nbsp;📊&nbsp; GitHub
+<!-- ════════════════════════ STATS ════════════════════════ -->
+### &nbsp;📊&nbsp; GitHub activity
 
 <div align="center">
 
@@ -140,6 +140,28 @@ status:     🔎 Open to opportunities
 
 <br/>
 
+<!-- 🐍 SNAKE (needs the .github/workflows/snake.yml workflow) -->
 <div align="center">
-<sub><i>Self-taught, structured learning — no shortcuts.</i></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbastian29/sbastian29/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbastian29/sbastian29/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sbastian29/sbastian29/output/snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- 🏆 TROPHIES -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sbastian29&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,50:203a43,100:0f2027&height=60&section=footer" width="100%"/>
 </div>
